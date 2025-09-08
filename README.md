@@ -133,6 +133,7 @@ This dataset is provided under the **Olewave Data Use Agreement (DUA)**. By acce
 - **Non-commercial research use only**
 - **No redistribution** or sublicensing
 - **Citation required** for publications
+  Olewave, “OleSpeech-IV: A Large-Scale Multispeaker and Multilingual Conversational Speech Dataset with Diverse Topics.” *arXiv preprint*, arXiv:2509.04702, 2025. [https://arxiv.org/abs/2509.04702](https://arxiv.org/abs/2509.04702)
 - **All rights remain with Olewave**
 
 For the full license terms, see [LICENSE](LICENSE) or contact **info@olewave.com**.
