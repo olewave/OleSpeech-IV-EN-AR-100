@@ -1,0 +1,2192 @@
+{
+    "version": "1.2.0",
+    "data": [
+        {
+            "speaker": 1,
+            "start_time": "5.60",
+            "end_time": "18.03",
+            "confidence": "0.92",
+            "block": [
+                {
+                    "start_time": "5.60",
+                    "end_time": "6.72",
+                    "transcript": "Welcome, Dave Cobb.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "9.73",
+                    "end_time": "12.58",
+                    "transcript": "You probably know Dave from his outstanding",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "12.58",
+                    "end_time": "16.96",
+                    "transcript": "work on so many amazing albums — all of my",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "16.96",
+                    "end_time": "18.03",
+                    "transcript": "favorite albums —",
+                    "confidence": "0.93",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "18.41",
+            "end_time": "19.74",
+            "confidence": "0.30",
+            "block": [
+                {
+                    "start_time": "18.41",
+                    "end_time": "19.74",
+                    "transcript": "You're just saying that.",
+                    "confidence": "0.30",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "19.74",
+            "end_time": "23.60",
+            "confidence": "0.91",
+            "block": [
+                {
+                    "start_time": "19.74",
+                    "end_time": "22.44",
+                    "transcript": "OK, I do like a few David Bowie",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "22.44",
+                    "end_time": "23.60",
+                    "transcript": "albums as well.",
+                    "confidence": "0.83",
+                    "overlap": true
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "23.50",
+            "end_time": "25.58",
+            "confidence": "0.48",
+            "block": [
+                {
+                    "start_time": "23.50",
+                    "end_time": "25.58",
+                    "transcript": "I like them, too; I'll pick David Bowie.",
+                    "confidence": "0.48",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "27.05",
+            "end_time": "59.42",
+            "confidence": "0.89",
+            "block": [
+                {
+                    "start_time": "27.05",
+                    "end_time": "29.55",
+                    "transcript": "But everyone from Jason Isbell to",
+                    "confidence": "0.81",
+                    "overlap": false
+                },
+                {
+                    "start_time": "29.55",
+                    "end_time": "33.03",
+                    "transcript": "Sturgill Simpson to Brandi Carlile, Ashley Monroe,",
+                    "confidence": "0.86",
+                    "overlap": false
+                },
+                {
+                    "start_time": "33.03",
+                    "end_time": "36.38",
+                    "transcript": "Lori McKenna. The list goes on and on — Anderson East.",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "37.37",
+                    "end_time": "41.63",
+                    "transcript": "Dave is also the man behind the label",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "41.63",
+                    "end_time": "42.54",
+                    "transcript": "Low Country Sound.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "42.57",
+                    "end_time": "45.65",
+                    "transcript": "And we're here with a Low Country Sound artist,",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "45.65",
+                    "end_time": "50.43",
+                    "transcript": "Savannah Conley, who is just beginning her career.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "54.96",
+                    "end_time": "56.77",
+                    "transcript": "How did you develop the skill set",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "56.77",
+                    "end_time": "57.65",
+                    "transcript": "to become a producer?",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "57.65",
+                    "end_time": "59.42",
+                    "transcript": "Did it just come naturally?",
+                    "confidence": "0.66",
+                    "overlap": true
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "58.69",
+            "end_time": "60.15",
+            "confidence": "0.84",
+            "block": [
+                {
+                    "start_time": "58.69",
+                    "end_time": "60.15",
+                    "transcript": "I think you just lie.",
+                    "confidence": "0.84",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "60.66",
+            "end_time": "61.19",
+            "confidence": "0.58",
+            "block": [
+                {
+                    "start_time": "60.66",
+                    "end_time": "61.19",
+                    "transcript": "Oh my God.",
+                    "confidence": "0.58",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "61.62",
+            "end_time": "66.47",
+            "confidence": "0.71",
+            "block": [
+                {
+                    "start_time": "61.62",
+                    "end_time": "62.63",
+                    "transcript": "I'm serious!",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "62.93",
+                    "end_time": "64.66",
+                    "transcript": "Have you ever asked for",
+                    "confidence": "0.55",
+                    "overlap": false
+                },
+                {
+                    "start_time": "64.66",
+                    "end_time": "66.47",
+                    "transcript": "somebody's production degree?",
+                    "confidence": "0.84",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "66.63",
+            "end_time": "67.45",
+            "confidence": "0.93",
+            "block": [
+                {
+                    "start_time": "66.63",
+                    "end_time": "67.45",
+                    "transcript": "Uh, no.",
+                    "confidence": "0.93",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "67.47",
+            "end_time": "72.38",
+            "confidence": "0.83",
+            "block": [
+                {
+                    "start_time": "67.47",
+                    "end_time": "68.49",
+                    "transcript": "I mean, not that that's a thing,",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "68.49",
+                    "end_time": "70.82",
+                    "transcript": "that's not a thing, but you'd never go, \"Hey man,",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "70.82",
+                    "end_time": "72.38",
+                    "transcript": "before we can work, let me see your —\"",
+                    "confidence": "0.92",
+                    "overlap": true
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "72.37",
+            "end_time": "73.93",
+            "confidence": "0.50",
+            "block": [
+                {
+                    "start_time": "72.37",
+                    "end_time": "73.93",
+                    "transcript": "I'm going to need your credentials.",
+                    "confidence": "0.50",
+                    "overlap": true
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "73.84",
+            "end_time": "130.29",
+            "confidence": "0.83",
+            "block": [
+                {
+                    "start_time": "73.84",
+                    "end_time": "73.99",
+                    "transcript": "Yeah, yeah.",
+                    "confidence": "0.20",
+                    "overlap": true
+                },
+                {
+                    "start_time": "74.02",
+                    "end_time": "74.77",
+                    "transcript": "There's no credentials.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "74.77",
+                    "end_time": "76.79",
+                    "transcript": "So you just — really, I'm not even joking,",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "76.79",
+                    "end_time": "77.74",
+                    "transcript": "I just lied.",
+                    "confidence": "0.71",
+                    "overlap": false
+                },
+                {
+                    "start_time": "77.81",
+                    "end_time": "79.42",
+                    "transcript": "My favorite part about being in a band was",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "79.42",
+                    "end_time": "82.74",
+                    "transcript": "making the record, and I could sleep in my own bed.",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "82.77",
+                    "end_time": "83.76",
+                    "transcript": "So that's kind of how",
+                    "confidence": "0.75",
+                    "overlap": false
+                },
+                {
+                    "start_time": "84.18",
+                    "end_time": "85.13",
+                    "transcript": "the production thing started.",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "85.13",
+                    "end_time": "86.08",
+                    "transcript": "And I watched, you know my band,",
+                    "confidence": "0.80",
+                    "overlap": false
+                },
+                {
+                    "start_time": "86.08",
+                    "end_time": "87.90",
+                    "transcript": "we worked with producers and I watched them work",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "87.90",
+                    "end_time": "88.41",
+                    "transcript": "and I thought,",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "88.41",
+                    "end_time": "90.78",
+                    "transcript": "\"Man, wait a minute, this guy gets paid.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "92.29",
+                    "end_time": "93.93",
+                    "transcript": "This guy gets fed well.",
+                    "confidence": "0.74",
+                    "overlap": false
+                },
+                {
+                    "start_time": "94.14",
+                    "end_time": "95.66",
+                    "transcript": "He gets to drink, and he gets to do this?\"",
+                    "confidence": "0.70",
+                    "overlap": false
+                },
+                {
+                    "start_time": "95.66",
+                    "end_time": "98.11",
+                    "transcript": "So to me, it checked all the boxes of",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "98.11",
+                    "end_time": "99.00",
+                    "transcript": "what I wanted to do.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "99.17",
+                    "end_time": "101.27",
+                    "transcript": "You know, I moved to Los Angeles from Atlanta",
+                    "confidence": "0.66",
+                    "overlap": false
+                },
+                {
+                    "start_time": "101.27",
+                    "end_time": "104.26",
+                    "transcript": "because I wanted to produce rock records, so.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "104.75",
+                    "end_time": "106.57",
+                    "transcript": "You know, in my mind LA is",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "106.57",
+                    "end_time": "107.68",
+                    "transcript": "where all the rock people live.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "107.68",
+                    "end_time": "109.23",
+                    "transcript": "You think of Led Zeppelin and —",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "109.26",
+                    "end_time": "110.88",
+                    "transcript": "not that they lived there, but in my head they did —",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "111.54",
+                    "end_time": "112.79",
+                    "transcript": "so I moved out there to do that,",
+                    "confidence": "0.86",
+                    "overlap": false
+                },
+                {
+                    "start_time": "112.79",
+                    "end_time": "116.33",
+                    "transcript": "and the first guy I produced out there",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "116.33",
+                    "end_time": "117.86",
+                    "transcript": "was this guy Shooter Jennings.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "117.86",
+                    "end_time": "119.89",
+                    "transcript": "Through Shooter, I met Sturgill Simpson.",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "119.89",
+                    "end_time": "121.72",
+                    "transcript": "I met Jamey Johnson.",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "121.72",
+                    "end_time": "122.84",
+                    "transcript": "I met all these people",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "123.22",
+                    "end_time": "124.19",
+                    "transcript": "and worked with them,",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "124.19",
+                    "end_time": "127.32",
+                    "transcript": "and the lie got so good, I eventually",
+                    "confidence": "0.80",
+                    "overlap": false
+                },
+                {
+                    "start_time": "127.32",
+                    "end_time": "129.16",
+                    "transcript": "convinced myself I was a country music producer,",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "129.16",
+                    "end_time": "130.29",
+                    "transcript": "so now I'm here.",
+                    "confidence": "0.80",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "133.34",
+            "end_time": "135.61",
+            "confidence": "0.76",
+            "block": [
+                {
+                    "start_time": "133.34",
+                    "end_time": "134.49",
+                    "transcript": "Take us to that moment",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "134.49",
+                    "end_time": "135.61",
+                    "transcript": "when you first heard Savannah.",
+                    "confidence": "0.80",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "137.45",
+            "end_time": "145.56",
+            "confidence": "0.78",
+            "block": [
+                {
+                    "start_time": "137.45",
+                    "end_time": "138.95",
+                    "transcript": "Steveo from Atlantic who's here tonight,",
+                    "confidence": "0.81",
+                    "overlap": false
+                },
+                {
+                    "start_time": "138.95",
+                    "end_time": "140.82",
+                    "transcript": "he brought her by the studio and she sang",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "140.82",
+                    "end_time": "141.82",
+                    "transcript": "about half of one song",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "141.82",
+                    "end_time": "142.74",
+                    "transcript": "and I'm like, \"Pff, done.\"",
+                    "confidence": "0.38",
+                    "overlap": false
+                },
+                {
+                    "start_time": "142.98",
+                    "end_time": "145.56",
+                    "transcript": "I mean, I didn't need to hear any more.",
+                    "confidence": "0.73",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "145.56",
+            "end_time": "147.22",
+            "confidence": "0.83",
+            "block": [
+                {
+                    "start_time": "145.56",
+                    "end_time": "147.22",
+                    "transcript": "That's not what I thought you thought.",
+                    "confidence": "0.83",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "147.77",
+            "end_time": "148.40",
+            "confidence": "0.95",
+            "block": [
+                {
+                    "start_time": "147.77",
+                    "end_time": "148.40",
+                    "transcript": "Really?",
+                    "confidence": "0.95",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "148.61",
+            "end_time": "150.93",
+            "confidence": "0.63",
+            "block": [
+                {
+                    "start_time": "148.61",
+                    "end_time": "149.24",
+                    "transcript": "OK, let's get",
+                    "confidence": "0.23",
+                    "overlap": false
+                },
+                {
+                    "start_time": "149.24",
+                    "end_time": "150.93",
+                    "transcript": "the he said, she said here.",
+                    "confidence": "0.83",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "151.15",
+            "end_time": "181.16",
+            "confidence": "0.89",
+            "block": [
+                {
+                    "start_time": "151.15",
+                    "end_time": "152.97",
+                    "transcript": "No, no, no, I know that now",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "152.97",
+                    "end_time": "154.32",
+                    "transcript": "I didn't know it at the time.",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "154.58",
+                    "end_time": "156.01",
+                    "transcript": "Because it felt like a —",
+                    "confidence": "0.86",
+                    "overlap": false
+                },
+                {
+                    "start_time": "156.23",
+                    "end_time": "157.12",
+                    "transcript": "he brought me by and",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "157.12",
+                    "end_time": "160.25",
+                    "transcript": "I'd never met Dave before, and I played half",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "160.25",
+                    "end_time": "161.67",
+                    "transcript": "of one song and he stopped me during it,",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "161.67",
+                    "end_time": "163.44",
+                    "transcript": "and I was like, \"[sharp breath] Oh, God.\"",
+                    "confidence": "0.71",
+                    "overlap": false
+                },
+                {
+                    "start_time": "163.50",
+                    "end_time": "165.39",
+                    "transcript": "Now I know how you work and it's amazing",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "165.39",
+                    "end_time": "168.62",
+                    "transcript": "because what, really, he doesn't want to hear",
+                    "confidence": "0.71",
+                    "overlap": false
+                },
+                {
+                    "start_time": "168.62",
+                    "end_time": "170.23",
+                    "transcript": "the whole song because he wants to hear it when",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "170.23",
+                    "end_time": "170.98",
+                    "transcript": "it's time to cut.",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "171.01",
+                    "end_time": "173.94",
+                    "transcript": "And that way we can get a vision together,",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "173.94",
+                    "end_time": "175.68",
+                    "transcript": "and I know that now, but at the time, I was",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "175.68",
+                    "end_time": "178.25",
+                    "transcript": "like, \"Oh, no.",
+                    "confidence": "0.87",
+                    "overlap": false
+                },
+                {
+                    "start_time": "178.30",
+                    "end_time": "181.16",
+                    "transcript": "I screwed this up bad.\"",
+                    "confidence": "0.88",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "181.31",
+            "end_time": "184.10",
+            "confidence": "0.93",
+            "block": [
+                {
+                    "start_time": "181.31",
+                    "end_time": "183.03",
+                    "transcript": "How do you find the artists",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "183.03",
+                    "end_time": "184.10",
+                    "transcript": "you would like to work with?",
+                    "confidence": "0.90",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "184.53",
+            "end_time": "201.02",
+            "confidence": "0.83",
+            "block": [
+                {
+                    "start_time": "184.53",
+                    "end_time": "186.63",
+                    "transcript": "I heard about so many artists",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "186.63",
+                    "end_time": "188.78",
+                    "transcript": "the first time through other artists I worked with.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "188.78",
+                    "end_time": "190.14",
+                    "transcript": "I mentioned Shooter Jennings earlier.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "190.14",
+                    "end_time": "193.37",
+                    "transcript": "He's always been, you know, like a brother, and",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "193.37",
+                    "end_time": "195.60",
+                    "transcript": "he told me about Sturgill, and",
+                    "confidence": "0.78",
+                    "overlap": false
+                },
+                {
+                    "start_time": "195.60",
+                    "end_time": "196.44",
+                    "transcript": "that's how I met Sturgill.",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "196.44",
+                    "end_time": "197.61",
+                    "transcript": "He told me about Jamey Johnson.",
+                    "confidence": "0.65",
+                    "overlap": false
+                },
+                {
+                    "start_time": "197.61",
+                    "end_time": "199.57",
+                    "transcript": "He told me about half of the great artists",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "199.57",
+                    "end_time": "201.02",
+                    "transcript": "I know about.",
+                    "confidence": "0.70",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "204.35",
+            "end_time": "236.00",
+            "confidence": "0.95",
+            "block": [
+                {
+                    "start_time": "204.35",
+                    "end_time": "206.18",
+                    "transcript": "I've heard it said that there are",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "206.18",
+                    "end_time": "207.68",
+                    "transcript": "several different kinds of producers.",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "207.68",
+                    "end_time": "210.43",
+                    "transcript": "There are vibe producers who just create a",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "210.43",
+                    "end_time": "214.11",
+                    "transcript": "great environment, a great hang for musicians.",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "214.37",
+                    "end_time": "217.45",
+                    "transcript": "There are curator producers who know",
+                    "confidence": "0.98",
+                    "overlap": false
+                },
+                {
+                    "start_time": "217.45",
+                    "end_time": "222.22",
+                    "transcript": "every great player, engineer, arranger — and put",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "222.22",
+                    "end_time": "224.75",
+                    "transcript": "those people in the studio with you.",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "225.00",
+                    "end_time": "228.30",
+                    "transcript": "There are track producers who actually make",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "228.30",
+                    "end_time": "231.24",
+                    "transcript": "sounds, make beats or make other sounds that",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "231.24",
+                    "end_time": "233.23",
+                    "transcript": "they then share with an artist.",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "233.43",
+                    "end_time": "235.15",
+                    "transcript": "How would you classify what you do",
+                    "confidence": "0.98",
+                    "overlap": false
+                },
+                {
+                    "start_time": "235.15",
+                    "end_time": "236.00",
+                    "transcript": "in those categories?",
+                    "confidence": "0.94",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "236.03",
+            "end_time": "296.56",
+            "confidence": "0.88",
+            "block": [
+                {
+                    "start_time": "236.03",
+                    "end_time": "236.95",
+                    "transcript": "I'm a bit of all of it,",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "236.95",
+                    "end_time": "238.12",
+                    "transcript": "except for the track producer.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "238.12",
+                    "end_time": "239.28",
+                    "transcript": "I don't know how to work computers,",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "239.28",
+                    "end_time": "240.41",
+                    "transcript": "so I don't know how to do that stuff.",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "240.41",
+                    "end_time": "241.86",
+                    "transcript": "I was always a guy who would",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "241.86",
+                    "end_time": "244.62",
+                    "transcript": "make accidental hangs all the time.",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "244.62",
+                    "end_time": "246.36",
+                    "transcript": "You know, I'd be at dinner, \"Come hang out,\"",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "246.36",
+                    "end_time": "248.75",
+                    "transcript": "and I'd have two people that you would think",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "248.75",
+                    "end_time": "251.23",
+                    "transcript": "would be competitive with each other, and next",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "251.23",
+                    "end_time": "252.08",
+                    "transcript": "thing you know, they're buddies.",
+                    "confidence": "0.76",
+                    "overlap": false
+                },
+                {
+                    "start_time": "252.08",
+                    "end_time": "254.47",
+                    "transcript": "And you know like Sturgill and Chris Stapleton,",
+                    "confidence": "0.81",
+                    "overlap": false
+                },
+                {
+                    "start_time": "254.47",
+                    "end_time": "256.65",
+                    "transcript": "or Jason and Chris.",
+                    "confidence": "0.56",
+                    "overlap": false
+                },
+                {
+                    "start_time": "256.65",
+                    "end_time": "258.79",
+                    "transcript": "Whatever it is, I've always been in these situations",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "258.79",
+                    "end_time": "261.23",
+                    "transcript": "where I try to make a gang out of it, because",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "261.23",
+                    "end_time": "263.41",
+                    "transcript": "I think, you know, when you look at London",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "263.41",
+                    "end_time": "265.17",
+                    "transcript": "in the '60s, you had the Stones hanging out",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "265.17",
+                    "end_time": "266.43",
+                    "transcript": "with the Who, and the Who hanging out with",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "266.43",
+                    "end_time": "268.21",
+                    "transcript": "the Beatles, and there was a scene — and",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "268.21",
+                    "end_time": "269.49",
+                    "transcript": "Hendrix is part of that.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "269.77",
+                    "end_time": "273.15",
+                    "transcript": "And in the '70s you had all the, you know,",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "273.47",
+                    "end_time": "276.10",
+                    "transcript": "Jackson Browne hanging out with the Eagles,",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "276.10",
+                    "end_time": "276.86",
+                    "transcript": "or whatever it was.",
+                    "confidence": "0.77",
+                    "overlap": false
+                },
+                {
+                    "start_time": "277.09",
+                    "end_time": "278.38",
+                    "transcript": "I love those scenes.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "278.38",
+                    "end_time": "279.96",
+                    "transcript": "I think they happen because of community.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "279.96",
+                    "end_time": "282.06",
+                    "transcript": "So, when I got to Nashville, the first thing",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "282.06",
+                    "end_time": "285.70",
+                    "transcript": "I wanted to do with this label — with Elektra",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "285.70",
+                    "end_time": "288.05",
+                    "transcript": "and Atlantic — is I wanted to create a community.",
+                    "confidence": "0.80",
+                    "overlap": false
+                },
+                {
+                    "start_time": "288.38",
+                    "end_time": "289.96",
+                    "transcript": "I feel like there's strength in numbers.",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "289.96",
+                    "end_time": "293.51",
+                    "transcript": "And I only really sign people who",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "293.51",
+                    "end_time": "294.71",
+                    "transcript": "I want to work with personally,",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "294.71",
+                    "end_time": "296.56",
+                    "transcript": "who I like hanging out with.",
+                    "confidence": "0.90",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "300.46",
+            "end_time": "310.90",
+            "confidence": "0.86",
+            "block": [
+                {
+                    "start_time": "300.46",
+                    "end_time": "301.47",
+                    "transcript": "You know, it's interesting to think",
+                    "confidence": "0.68",
+                    "overlap": false
+                },
+                {
+                    "start_time": "301.47",
+                    "end_time": "304.56",
+                    "transcript": "about YouTube as a place where a lot of amateur",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "304.85",
+                    "end_time": "307.08",
+                    "transcript": "artists are — people are just recording",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "307.08",
+                    "end_time": "310.13",
+                    "transcript": "in their bedroom and having huge, hundreds of — millions",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "310.13",
+                    "end_time": "310.90",
+                    "transcript": "of streams.",
+                    "confidence": "0.94",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "311.01",
+            "end_time": "313.48",
+            "confidence": "0.78",
+            "block": [
+                {
+                    "start_time": "311.01",
+                    "end_time": "311.68",
+                    "transcript": "We found the drummer",
+                    "confidence": "0.74",
+                    "overlap": false
+                },
+                {
+                    "start_time": "311.68",
+                    "end_time": "313.48",
+                    "transcript": "for Sturgill off of YouTube.",
+                    "confidence": "0.80",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "313.54",
+            "end_time": "314.89",
+            "confidence": "0.73",
+            "block": [
+                {
+                    "start_time": "313.54",
+                    "end_time": "314.89",
+                    "transcript": "Huh, really?",
+                    "confidence": "0.73",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "314.92",
+            "end_time": "426.36",
+            "confidence": "0.86",
+            "block": [
+                {
+                    "start_time": "314.92",
+                    "end_time": "316.01",
+                    "transcript": "Yeah, he was looking —",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "316.01",
+                    "end_time": "318.03",
+                    "transcript": "you know, if you ever need a drummer for your band",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "318.03",
+                    "end_time": "321.63",
+                    "transcript": "do a search — drummer of your favorite band cover",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "321.63",
+                    "end_time": "322.31",
+                    "transcript": "— and you'll find him.",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "322.31",
+                    "end_time": "323.00",
+                    "transcript": "He was killer",
+                    "confidence": "0.98",
+                    "overlap": false
+                },
+                {
+                    "start_time": "323.00",
+                    "end_time": "324.57",
+                    "transcript": "16 the first time I ever saw him,",
+                    "confidence": "0.77",
+                    "overlap": false
+                },
+                {
+                    "start_time": "324.57",
+                    "end_time": "328.88",
+                    "transcript": "and yeah, now he's, yeah — it's a great thing.",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "328.88",
+                    "end_time": "331.00",
+                    "transcript": "I mean, listen, I come from Savannah, Georgia,",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "331.00",
+                    "end_time": "332.67",
+                    "transcript": "and there's not a lot of opportunity musically,",
+                    "confidence": "0.61",
+                    "overlap": false
+                },
+                {
+                    "start_time": "332.67",
+                    "end_time": "335.23",
+                    "transcript": "so anything that's gonna give somebody",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "335.23",
+                    "end_time": "337.73",
+                    "transcript": "bigger than their hometown an opportunity to be seen,",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "337.73",
+                    "end_time": "338.79",
+                    "transcript": "I'm for it, you know?",
+                    "confidence": "0.71",
+                    "overlap": false
+                },
+                {
+                    "start_time": "342.75",
+                    "end_time": "344.49",
+                    "transcript": "I have a trick I play on people a lot.",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "344.49",
+                    "end_time": "345.35",
+                    "transcript": "CONLEY, Yeah.",
+                    "confidence": "0.54",
+                    "overlap": false
+                },
+                {
+                    "start_time": "345.38",
+                    "end_time": "346.08",
+                    "transcript": "Oh.",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "346.14",
+                    "end_time": "346.65",
+                    "transcript": "Yes.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "347.19",
+                    "end_time": "348.13",
+                    "transcript": "And she's heard the trick, because",
+                    "confidence": "0.33",
+                    "overlap": false
+                },
+                {
+                    "start_time": "348.13",
+                    "end_time": "351.12",
+                    "transcript": "I think music has been so calculated for so",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "351.12",
+                    "end_time": "353.61",
+                    "transcript": "long, people expect everyone to be perfect",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "353.61",
+                    "end_time": "354.31",
+                    "transcript": "all the time.",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "354.58",
+                    "end_time": "357.02",
+                    "transcript": "And there's a couple songs —",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "357.02",
+                    "end_time": "359.54",
+                    "transcript": "I play \"Honky Tonk Women\" by the Rolling Stones, if you",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "359.54",
+                    "end_time": "360.70",
+                    "transcript": "count the way that starts",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "360.97",
+                    "end_time": "362.74",
+                    "transcript": "can we, do you have that song cued up?",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "362.74",
+                    "end_time": "363.68",
+                    "transcript": "I'm gonna do it right now.",
+                    "confidence": "0.64",
+                    "overlap": false
+                },
+                {
+                    "start_time": "364.42",
+                    "end_time": "365.79",
+                    "transcript": "This is what I play on everybody,",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "365.79",
+                    "end_time": "367.13",
+                    "transcript": "and it messes with their head, and by the end of it they",
+                    "confidence": "0.70",
+                    "overlap": false
+                },
+                {
+                    "start_time": "367.13",
+                    "end_time": "369.04",
+                    "transcript": "want to sing out of tune on purpose.",
+                    "confidence": "0.81",
+                    "overlap": false
+                },
+                {
+                    "start_time": "369.63",
+                    "end_time": "371.00",
+                    "transcript": "If you can find \"Honky Tonk Women\"",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "371.00",
+                    "end_time": "374.00",
+                    "transcript": "and the other song is Otis Redding",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "374.00",
+                    "end_time": "375.81",
+                    "transcript": "\"I've Been Loving You [Too Long]\"",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "375.81",
+                    "end_time": "377.59",
+                    "transcript": "To me, he's the best soul singer of all time,",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "377.59",
+                    "end_time": "379.04",
+                    "transcript": "my favorite singer of all time.",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "379.18",
+                    "end_time": "379.94",
+                    "transcript": "Period.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "379.94",
+                    "end_time": "381.21",
+                    "transcript": "There's nobody even close.",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "381.25",
+                    "end_time": "383.76",
+                    "transcript": "But you hear him sing and he goes sharp.",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "384.06",
+                    "end_time": "387.37",
+                    "transcript": "Really sharp, and the band is kind of not settled",
+                    "confidence": "0.86",
+                    "overlap": false
+                },
+                {
+                    "start_time": "387.37",
+                    "end_time": "389.02",
+                    "transcript": "— the piano's out of tune, the guitar's",
+                    "confidence": "0.78",
+                    "overlap": false
+                },
+                {
+                    "start_time": "389.02",
+                    "end_time": "391.08",
+                    "transcript": "rushing — but that's why it comes together,",
+                    "confidence": "0.87",
+                    "overlap": false
+                },
+                {
+                    "start_time": "391.08",
+                    "end_time": "391.97",
+                    "transcript": "and it's soul.",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "392.00",
+                    "end_time": "393.60",
+                    "transcript": "I mean, that's what the word soul means.",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "393.60",
+                    "end_time": "396.32",
+                    "transcript": "So, I play those two songs all the time.",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "396.41",
+                    "end_time": "399.68",
+                    "transcript": "OK, let's play a second — can you start again?",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "400.05",
+                    "end_time": "401.36",
+                    "transcript": "Somebody clap.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "401.39",
+                    "end_time": "403.59",
+                    "transcript": "I want one clapper, you're going to be the clapper.",
+                    "confidence": "0.68",
+                    "overlap": false
+                },
+                {
+                    "start_time": "403.59",
+                    "end_time": "403.93",
+                    "transcript": "You're the clapper.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "406.26",
+                    "end_time": "408.02",
+                    "transcript": "OK, now can you skip to the end?",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "408.02",
+                    "end_time": "409.09",
+                    "transcript": "Hold that time.",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "409.09",
+                    "end_time": "409.97",
+                    "transcript": "Stop the song?",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "410.82",
+                    "end_time": "412.03",
+                    "transcript": "Stop the song real quick?",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "412.85",
+                    "end_time": "414.07",
+                    "transcript": "You keep clapping that time.",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "414.27",
+                    "end_time": "415.41",
+                    "transcript": "Go to the very end of the song,",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "415.41",
+                    "end_time": "417.19",
+                    "transcript": "the last 10 seconds of that song.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "417.89",
+                    "end_time": "420.76",
+                    "transcript": "We got it.",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "422.14",
+                    "end_time": "426.36",
+                    "transcript": "[Laughter; fast music plays] It's perfect.",
+                    "confidence": "0.86",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "427.24",
+            "end_time": "427.68",
+            "confidence": "0.81",
+            "block": [
+                {
+                    "start_time": "427.24",
+                    "end_time": "427.68",
+                    "transcript": "Yeah.",
+                    "confidence": "0.81",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "429.38",
+            "end_time": "461.69",
+            "confidence": "0.85",
+            "block": [
+                {
+                    "start_time": "429.38",
+                    "end_time": "430.29",
+                    "transcript": "It's perfect.",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "430.64",
+                    "end_time": "432.21",
+                    "transcript": "It's a perfect song.",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "432.43",
+                    "end_time": "435.11",
+                    "transcript": "Because when they get excited, they left it.",
+                    "confidence": "0.77",
+                    "overlap": false
+                },
+                {
+                    "start_time": "435.11",
+                    "end_time": "438.71",
+                    "transcript": "And it's almost like the car's driven",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "438.71",
+                    "end_time": "441.78",
+                    "transcript": "off the road and ran off a cliff, and you know",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "441.81",
+                    "end_time": "443.73",
+                    "transcript": "that's what music is all about.",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "443.73",
+                    "end_time": "444.60",
+                    "transcript": "It's a feeling and emotion,",
+                    "confidence": "0.70",
+                    "overlap": false
+                },
+                {
+                    "start_time": "444.60",
+                    "end_time": "445.37",
+                    "transcript": "and we were talking about",
+                    "confidence": "0.63",
+                    "overlap": false
+                },
+                {
+                    "start_time": "445.37",
+                    "end_time": "448.25",
+                    "transcript": "rock 'n' roll earlier; rock 'n' roll came",
+                    "confidence": "0.75",
+                    "overlap": false
+                },
+                {
+                    "start_time": "448.25",
+                    "end_time": "449.86",
+                    "transcript": "from the church, but it was the danger",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "449.86",
+                    "end_time": "451.23",
+                    "transcript": "that rock 'n' roll added to the church",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "451.23",
+                    "end_time": "452.36",
+                    "transcript": "that made it so interesting.",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "452.36",
+                    "end_time": "455.05",
+                    "transcript": "So, I'm still a rock 'n' roll guy at my heart,",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "455.08",
+                    "end_time": "458.90",
+                    "transcript": "and those songs, you know, that passion, that power",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "459.22",
+                    "end_time": "461.69",
+                    "transcript": "that looseness is what I like about music.",
+                    "confidence": "0.95",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 2,
+            "start_time": "462.38",
+            "end_time": "483.16",
+            "confidence": "0.87",
+            "block": [
+                {
+                    "start_time": "462.38",
+                    "end_time": "463.25",
+                    "transcript": "On this record, I think probably",
+                    "confidence": "0.56",
+                    "overlap": false
+                },
+                {
+                    "start_time": "463.25",
+                    "end_time": "466.86",
+                    "transcript": "the most takes that we did of a song is three.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "466.89",
+                    "end_time": "468.73",
+                    "transcript": "Maybe. If that.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "468.73",
+                    "end_time": "478.21",
+                    "transcript": "And it's because Dave wants to capture the rawness.",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "478.24",
+                    "end_time": "480.75",
+                    "transcript": "I can get nitpicky, especially on myself.",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "481.19",
+                    "end_time": "483.16",
+                    "transcript": "But that doesn't allow me to do that.",
+                    "confidence": "0.88",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 0,
+            "start_time": "483.75",
+            "end_time": "501.69",
+            "confidence": "0.87",
+            "block": [
+                {
+                    "start_time": "483.75",
+                    "end_time": "485.10",
+                    "transcript": "The drummer is super important to me,",
+                    "confidence": "0.62",
+                    "overlap": false
+                },
+                {
+                    "start_time": "485.29",
+                    "end_time": "488.16",
+                    "transcript": "so casting is really the drummer for me because",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "488.16",
+                    "end_time": "490.23",
+                    "transcript": "I want to make sure we never lose a vocal.",
+                    "confidence": "0.93",
+                    "overlap": false
+                },
+                {
+                    "start_time": "490.42",
+                    "end_time": "491.67",
+                    "transcript": "Because I always think the best vocal",
+                    "confidence": "0.80",
+                    "overlap": false
+                },
+                {
+                    "start_time": "491.67",
+                    "end_time": "494.48",
+                    "transcript": "happens when you're tracking live and the singer's",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "494.48",
+                    "end_time": "495.51",
+                    "transcript": "singing with the band.",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "495.51",
+                    "end_time": "497.13",
+                    "transcript": "You can never get it to feel the same way.",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "497.13",
+                    "end_time": "499.81",
+                    "transcript": "So, he's super important — Chris Powell",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "499.81",
+                    "end_time": "501.69",
+                    "transcript": "to my whole success, you know?",
+                    "confidence": "0.83",
+                    "overlap": false
+                }
+            ]
+        },
+        {
+            "speaker": 1,
+            "start_time": "506.18",
+            "end_time": "600.48",
+            "confidence": "0.69",
+            "block": [
+                {
+                    "start_time": "506.18",
+                    "end_time": "508.37",
+                    "transcript": "They say that the greatest innovations",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "508.37",
+                    "end_time": "510.10",
+                    "transcript": "in music come from mistakes.",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "510.27",
+                    "end_time": "512.74",
+                    "transcript": "Feedback was a mistake, you know?",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "512.74",
+                    "end_time": "516.65",
+                    "transcript": "Everything interesting about sound in the studio",
+                    "confidence": "0.94",
+                    "overlap": false
+                },
+                {
+                    "start_time": "516.65",
+                    "end_time": "518.80",
+                    "transcript": "probably was an accident at first.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "519.01",
+                    "end_time": "522.01",
+                    "transcript": "So, I wonder if you found that as a producer?",
+                    "confidence": "0.97",
+                    "overlap": false
+                },
+                {
+                    "start_time": "522.94",
+                    "end_time": "524.94",
+                    "transcript": "COBB, Uh, you know, I think now",
+                    "confidence": "0.82",
+                    "overlap": false
+                },
+                {
+                    "start_time": "524.94",
+                    "end_time": "527.05",
+                    "transcript": "music has a lack of mistakes, and that's why I'm not",
+                    "confidence": "0.87",
+                    "overlap": false
+                },
+                {
+                    "start_time": "527.05",
+                    "end_time": "529.11",
+                    "transcript": "really interested in it, you know?",
+                    "confidence": "0.89",
+                    "overlap": false
+                },
+                {
+                    "start_time": "529.14",
+                    "end_time": "531.77",
+                    "transcript": "When I listen to any genre of music",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "531.77",
+                    "end_time": "536.15",
+                    "transcript": "circa 1950 to 1980, maybe, there's lots of mistakes,",
+                    "confidence": "0.60",
+                    "overlap": false
+                },
+                {
+                    "start_time": "536.15",
+                    "end_time": "537.61",
+                    "transcript": "and I think that's endearing.",
+                    "confidence": "0.75",
+                    "overlap": false
+                },
+                {
+                    "start_time": "538.21",
+                    "end_time": "539.38",
+                    "transcript": "I think people attach themselves",
+                    "confidence": "0.56",
+                    "overlap": false
+                },
+                {
+                    "start_time": "539.38",
+                    "end_time": "541.21",
+                    "transcript": "to human aspects of music,",
+                    "confidence": "0.90",
+                    "overlap": false
+                },
+                {
+                    "start_time": "541.21",
+                    "end_time": "542.01",
+                    "transcript": "and I think that's something",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "542.01",
+                    "end_time": "542.77",
+                    "transcript": "that's lost, so,",
+                    "confidence": "0.70",
+                    "overlap": false
+                },
+                {
+                    "start_time": "543.11",
+                    "end_time": "545.22",
+                    "transcript": "to answer your question, yeah, I think mistakes are",
+                    "confidence": "0.71",
+                    "overlap": false
+                },
+                {
+                    "start_time": "545.22",
+                    "end_time": "545.91",
+                    "transcript": "what is fun.",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "545.91",
+                    "end_time": "547.91",
+                    "transcript": "I remember being a kid listening to the Police",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "548.20",
+                    "end_time": "549.61",
+                    "transcript": "I was really into the Police, and listening",
+                    "confidence": "0.87",
+                    "overlap": false
+                },
+                {
+                    "start_time": "549.61",
+                    "end_time": "551.87",
+                    "transcript": "to — there's a mistake in a punch on",
+                    "confidence": "0.95",
+                    "overlap": false
+                },
+                {
+                    "start_time": "551.87",
+                    "end_time": "554.94",
+                    "transcript": "Stewart Copeland's drums — and just obsessing about it",
+                    "confidence": "0.73",
+                    "overlap": false
+                },
+                {
+                    "start_time": "554.94",
+                    "end_time": "556.04",
+                    "transcript": "like, \"Play it, check it out, check it out.\"",
+                    "confidence": "0.69",
+                    "overlap": false
+                },
+                {
+                    "start_time": "556.04",
+                    "end_time": "556.95",
+                    "transcript": "Nobody else got it.",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "557.81",
+                    "end_time": "558.84",
+                    "transcript": "Like, \"That kid is weird.\"",
+                    "confidence": "0.38",
+                    "overlap": false
+                },
+                {
+                    "start_time": "559.13",
+                    "end_time": "561.22",
+                    "transcript": "That's why I had no friends in high school.",
+                    "confidence": "0.92",
+                    "overlap": false
+                },
+                {
+                    "start_time": "561.49",
+                    "end_time": "564.98",
+                    "transcript": "But I remember just obsessing about that, you know?",
+                    "confidence": "0.80",
+                    "overlap": false
+                },
+                {
+                    "start_time": "565.27",
+                    "end_time": "567.96",
+                    "transcript": "And there's — I can't say this because it's NPR.",
+                    "confidence": "0.87",
+                    "overlap": false
+                },
+                {
+                    "start_time": "567.96",
+                    "end_time": "569.78",
+                    "transcript": "But there's a Van Halen song,",
+                    "confidence": "0.91",
+                    "overlap": false
+                },
+                {
+                    "start_time": "569.78",
+                    "end_time": "571.61",
+                    "transcript": "\"Everybody Wants Some,\" at the end",
+                    "confidence": "0.96",
+                    "overlap": false
+                },
+                {
+                    "start_time": "571.64",
+                    "end_time": "573.49",
+                    "transcript": "David Lee Roth says, \"Look,",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "573.49",
+                    "end_time": "574.94",
+                    "transcript": "I'll pay you for it, what the F.\"",
+                    "confidence": "0.78",
+                    "overlap": false
+                },
+                {
+                    "start_time": "574.97",
+                    "end_time": "577.19",
+                    "transcript": "And I thought it was the coolest thing, and it's so quiet.",
+                    "confidence": "0.77",
+                    "overlap": false
+                },
+                {
+                    "start_time": "577.75",
+                    "end_time": "578.68",
+                    "transcript": "So those mistakes that get left in",
+                    "confidence": "0.41",
+                    "overlap": false
+                },
+                {
+                    "start_time": "578.68",
+                    "end_time": "580.17",
+                    "transcript": "that probably wasn't a mistake,",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "580.35",
+                    "end_time": "583.71",
+                    "transcript": "but I love trying to catch",
+                    "confidence": "0.85",
+                    "overlap": false
+                },
+                {
+                    "start_time": "583.71",
+                    "end_time": "586.00",
+                    "transcript": "somebody, you know, a mistake on a record.",
+                    "confidence": "0.88",
+                    "overlap": false
+                },
+                {
+                    "start_time": "586.00",
+                    "end_time": "587.84",
+                    "transcript": "I always thought that was my favorite part of records,",
+                    "confidence": "0.72",
+                    "overlap": false
+                },
+                {
+                    "start_time": "587.84",
+                    "end_time": "588.11",
+                    "transcript": "in a way",
+                    "confidence": "0.84",
+                    "overlap": false
+                },
+                {
+                    "start_time": "588.11",
+                    "end_time": "590.23",
+                    "transcript": "POWERS, Savannah Conley and Dave Cobb.",
+                    "confidence": "0.62",
+                    "overlap": false
+                },
+                {
+                    "start_time": "590.23",
+                    "end_time": "591.96",
+                    "transcript": "Thank you all so much for coming,",
+                    "confidence": "0.79",
+                    "overlap": false
+                },
+                {
+                    "start_time": "592.24",
+                    "end_time": "594.43",
+                    "transcript": "being such a great, attentive audience.",
+                    "confidence": "0.83",
+                    "overlap": false
+                },
+                {
+                    "start_time": "595.98",
+                    "end_time": "600.48",
+                    "transcript": "I'm Ann Powers, thanks again.",
+                    "confidence": "0.61",
+                    "overlap": false
+                }
+            ]
+        }
+    ]
+}
