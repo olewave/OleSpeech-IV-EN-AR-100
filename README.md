@@ -6,7 +6,7 @@
 
 ## Overview
 
-OleSpeech-IV is a tiered dataset series designed to provide speech resources with varying levels of annotation. **OleSpeech-IV-2025-EN-AR-100** represents a curated subset of Tier IV data, focusing on English and Arabic content, featuring:
+OleSpeech is a tiered dataset series designed to provide speech resources with varying levels of annotation. **OleSpeech-IV-2025-EN-AR-100** represents a curated subset of Tier IV data, focusing on English content, featuring:
 
 - **Multispeaker conversational recordings**
 - **Diverse topics** from English podcasts, talk shows, teleconferences, and other conversations
